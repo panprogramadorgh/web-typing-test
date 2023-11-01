@@ -1,0 +1,22 @@
+main {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  gap: 30px;
+}
+
+#game {
+  text-align: center;
+}
+#game #paragraph {
+  text-align: left;
+}
+
+#mainframe {
+  width: 500px;
+  height: 200px;
+  background-color: #1d1d1d;
+  color: #eee;
+  font-family: Ubuntu;
+  resize: none;
+}
